@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-Medium.eot');
+    src: url('../fonts/DarkerGrotesque-Medium.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Medium.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Medium.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-Regular.eot');
+    src: url('../fonts/DarkerGrotesque-Regular.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Regular.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Regular.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DarkerGrotesque-Regular';
+    src: url('../fonts/DarkerGrotesque-Regular.eot');
+    src: url('../fonts/DarkerGrotesque-Regular.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Regular.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Regular.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-Light.eot');
+    src: url('../fonts/DarkerGrotesque-Light.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Light.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Light.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-Bold.eot');
+    src: url('../fonts/DarkerGrotesque-Bold.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Bold.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Bold.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DarkerGrotesque-Bold';
+    src: url('../fonts/DarkerGrotesque-Bold.eot');
+    src: url('../fonts/DarkerGrotesque-Bold.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Bold.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Bold.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-SemiBold.eot');
+    src: url('../fonts/DarkerGrotesque-SemiBold.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-SemiBold.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-SemiBold.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-ExtraBold.eot');
+    src: url('../fonts/DarkerGrotesque-ExtraBold.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-ExtraBold.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-ExtraBold.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    src: url('../fonts/DarkerGrotesque-Black.eot');
+    src: url('../fonts/DarkerGrotesque-Black.eot#iefix') format('embedded-opentype'),
+        url('../fonts/DarkerGrotesque-Black.woff2') format('woff2'),
+        url('../fonts/DarkerGrotesque-Black.woff') format('woff'),
+        url('../fonts/DarkerGrotesque-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trajan Pro 3';
+    src: url('../fonts/TrajanPro3-Bold.eot');
+    src: url('../fonts/TrajanPro3-Bold.eot#iefix') format('embedded-opentype'),
+        url('../fonts/TrajanPro3-Bold.woff2') format('woff2'),
+        url('../fonts/TrajanPro3-Bold.woff') format('woff'),
+        url('../fonts/TrajanPro3-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTM Trajan Pro';
+    src: url('../fonts/UTMTrajanProBold.eot');
+    src: url('../fonts/UTMTrajanProBold.eot#iefix') format('embedded-opentype'),
+        url('../fonts/UTMTrajanProBold.woff2') format('woff2'),
+        url('../fonts/UTMTrajanProBold.woff') format('woff'),
+        url('../fonts/UTMTrajanProBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trajan Pro 3';
+    src: url('../fonts/TrajanPro3-Regular.eot');
+    src: url('../fonts/TrajanPro3-Regular.eot#iefix') format('embedded-opentype'),
+        url('../fonts/TrajanPro3-Regular.woff2') format('woff2'),
+        url('../fonts/TrajanPro3-Regular.woff') format('woff'),
+        url('../fonts/TrajanPro3-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

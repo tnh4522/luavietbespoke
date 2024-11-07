@@ -1,0 +1,48 @@
+.eltdf-workflow .eltdf-workflow-item .eltdf-workflow-item-inner .eltdf-workflow-image {
+    -webkit-animation-delay: .5s;
+    animation-delay: .5s
+}
+
+#common-home .kp-item {
+    overflow: hidden
+}
+
+#common-home .kp-item a {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#common-home .kp-item img {
+    -webkit-transition: all .5s;
+    transition: all .5s
+}
+
+#common-home .kp-item:hover img {
+    -webkit-animation-duration: .5s;
+    animation-duration: .5s;
+    -webkit-transform: scale(1.03) translateX(3px);
+    transform: scale(1.03) translateX(3px)
+}
+
+#common-home .home-middle_banner .content-title {
+    -webkit-animation-delay: .5s;
+    animation-delay: .5s
+}
+
+#common-home .home-middle_banner .content-desc {
+    -webkit-animation-delay: .75s;
+    animation-delay: .75s
+}
